@@ -26,6 +26,10 @@ You need Node for this project to run.
    ```sh
    git clone https://github.com/Shidraw/TezCazDB/
    ```
+3. Install dependencies
+   ```sh
+   npm i
+   ```
 4. Run the DB connexion to port 3001, listening to the Front project on localhost:3000 (https://github.com/Shidraw/TezCazFront)
    ```sh
    node .\main.js
