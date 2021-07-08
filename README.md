@@ -1,9 +1,6 @@
 # TezCazDB
 PostGreSQL DB connexions & Back for Casino project on Tezos
 
-# TezCazContracts
-Smart Contracts for Casino games on Tezos
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This repo is the PostgreSQL part of the Tezos's Casino.
